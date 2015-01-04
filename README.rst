@@ -12,5 +12,5 @@ List of scripts :
 Script name                    Description
 ============================== ========================================================================
 course_aux_additions.py        addition racing : a way to learn addition tables
-course_aux_multiplications.py  addition racing : a way to learn multiplication tables
+course_aux_multiplications.py  multiplication racing : a way to learn multiplication tables
 ============================== ========================================================================
